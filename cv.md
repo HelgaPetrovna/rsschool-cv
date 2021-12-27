@@ -50,3 +50,12 @@ const quarterOf = (month) => {
   }
 }
 ```
+
+
+**Courses**
+---
+
+
+* **TeachMeSkills** FrontEnd Development (in progress)
+* **RS School** Front-end. Stage 0 (in progress)
+* **w3schools** HTML and CSS Tutorials (completed)
