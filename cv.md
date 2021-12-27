@@ -18,3 +18,15 @@ Junior Frontend Developer
 ---
 
 I have been working as a freelance graphic designer for the last four years. In addition to design skills, I have well-developed skills in time management, self-organization and communication. I'm passionate about learning new things. Therefore, I chose Front-End development as the next step in my career. Now I'm interested in teamwork and constant learning. I'm open-minded and believe that my sense of humor helps me overcome new challenges.
+
+
+
+**Skills**
+---
+
+* HTML5, CSS3
+* JavaScript Basics
+* Sass, Bootstrap
+* Git, GitHub
+* VS Code
+* Adobe Photoshop, Illustrator, InDesign
