@@ -59,3 +59,10 @@ const quarterOf = (month) => {
 * **TeachMeSkills** FrontEnd Development (in progress)
 * **RS School** Front-end. Stage 0 (in progress)
 * **w3schools** HTML and CSS Tutorials (completed)
+
+
+**Languages**
+---
+
+* English (Intermediate)
+* Russian (Native)
