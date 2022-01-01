@@ -1,0 +1,26 @@
+@import "header.css";
+@import "title.css";
+
+:root {
+    --beige: #e5c5ad;
+    --cream: #dbaf96;
+    --lightGray: #9c958e;
+    --darkGray: #625f5e;
+    --raleway: 'Raleway', sans-serif;
+    --roboto: 'Roboto', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth; 
+  }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+  }
