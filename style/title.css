@@ -1,7 +1,7 @@
 .title {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
     padding: 50px 0;
     border-bottom: 15px solid var(--lightGray);
 }
@@ -12,7 +12,8 @@
 }
 
 .title-picture {
-    border-radius: 5px;
+    border-radius: 10px;
+    margin-right: 120px;
 }
 
 .title-line {
