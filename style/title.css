@@ -1,7 +1,7 @@
 .title {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-around;
     padding: 50px 0;
     border-bottom: 15px solid var(--lightGray);
 }
@@ -13,7 +13,6 @@
 
 .title-picture {
     border-radius: 10px;
-    margin-right: 120px;
 }
 
 .title-line {
@@ -28,6 +27,7 @@ h1 {
     font-family: var(--raleway);
     font-size: 46px;
     font-weight: 600;
+    letter-spacing: 2px;
     color: var(--darkGray);
     margin-bottom: 20px;
 }
