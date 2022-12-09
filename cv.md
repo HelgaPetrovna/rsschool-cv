@@ -18,7 +18,7 @@ Junior Frontend Developer
 **Briefly About Myself**
 ---
 
-I have been working as a freelance graphic designer for the last five years. In addition to design skills, I have well-developed skills in time management, self-organization and communication. I'm passionate about learning new things. Therefore, I chose Front-End development as the next step in my career. Now I'm interested in teamwork and constant learning.
+I have been working as a freelance graphic designer for the last five years. In addition to design skills, I have well-developed skills in time management, self-organization and communication. I'm passionate about learning new things. Therefore, I chose Front-End development as the next step in my career. Now I'm interested in teamwork and constant learning. I moved to Lithuania in 2022.
 
 
 
