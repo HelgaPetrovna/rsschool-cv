@@ -1,0 +1,27 @@
+@import "header.css";
+
+:root {
+    --beige: #e5c5ad;
+    --cream: #dbaf96;
+    --lightGray: #9c958e;
+    --darkGray: #625f5e;
+    --raleway: 'Raleway', sans-serif;
+    --roboto: 'Roboto', sans-serif;
+}
+html {
+    scroll-behavior: smooth; 
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
