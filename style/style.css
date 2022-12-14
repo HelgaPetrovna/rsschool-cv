@@ -1,6 +1,7 @@
 @import "header.css";
 @import "title.css";
 @import "sections.css";
+@import "footer.css";
 
 :root {
     --beige: #e5c5ad;
