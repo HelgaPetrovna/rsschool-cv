@@ -5,15 +5,15 @@ header {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    list-style: none;
     padding: 20px 0 15px;
+    list-style: none;
 }
 .nav-link {
     padding: 0 20px;
     line-height: 50px;
     text-decoration: none;
     color: white;
-    transition: color 0.5s;
+    transition: color 0.7s;
 }
 .nav-link:hover {
     opacity: 60%;
