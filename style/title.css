@@ -1,0 +1,35 @@
+.title {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 50px 0;
+    border-bottom: 15px solid var(--lightGray);
+}
+.title-wrapper {
+    margin: auto 0;
+    text-align: center;
+}
+.title-picture {
+    border-radius: 10px;
+}
+.title-line {
+    margin: 0 auto;
+    height: 2px;
+    max-width: 400px;
+    margin-bottom: 20px;
+    background-color: var(--cream);
+}
+h1 {
+    margin-bottom: 20px;
+    font-family: var(--raleway);
+    font-size: 46px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: var(--darkGray);
+}
+.subtitile {
+    font-family: var(--raleway);
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--lightGray);
+}
