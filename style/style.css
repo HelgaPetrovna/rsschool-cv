@@ -4,8 +4,8 @@
 @import "footer.css";
 
 :root {
-    --beige: #e5c5ad;
-    --cream: #dbaf96;
+    --beige: #d9baa3;
+    --cream: #c79d85;
     --lightGray: #9c958e;
     --darkGray: #625f5e;
     --raleway: 'Raleway', sans-serif;
@@ -25,9 +25,14 @@ body {
     justify-content: space-between;
 }
 .container {
-    max-width: 80%;
+    max-width: 1440px;
     margin: 0 auto;
 }
+@media (max-width: 1440px) {
+    .container {
+        max-width: 80%;
+    }
+  }
 @media (max-width: 768px) {
     .container {
         max-width: 85%;

@@ -1,6 +1,7 @@
 .wrapper {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
     padding: 40px 0 40px;
     font-family: var(--roboto);
     font-size: 16px;
@@ -20,14 +21,37 @@
 .wrapper ul {
     list-style: none;
 }
+.contacts,
+.summary,
+.skills,
+.code,
+.courses,
+.languages {
+    max-width: 530px;
+}
+@media (max-width: 768px) {
+    .contacts,
+    .summary,
+    .skills,
+    .code,
+    .courses,
+    .languages {
+    max-width: 100%;
+}
+}
 .section-title {
     font-family: var(--raleway);
     font-size: 20px;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: var(--darkGray);
+    color: var(--cream);
     margin-bottom: 15px;
+}
+.summary-text,
+.code-text {
+    max-width: 95%;
+    margin-right: auto;
 }
 .section-line {
     max-width: 90%;
@@ -41,6 +65,9 @@
     padding-right: 5px;
     font-size: 16px;
     color: var(--cream);
+}
+.contact-icon {
+    margin-right: 10px;
 }
 .bold {
     font-weight: 600;
